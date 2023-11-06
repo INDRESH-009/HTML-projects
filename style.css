@@ -1,0 +1,28 @@
+
+/* Using id-selector to change the font color */
+#red{
+    color: red;
+}
+#blue{
+    color: blue;
+}
+#orange{
+    color: orange;
+}
+#black{
+    color: black;
+}
+#yellow{
+    color: yellow;
+}
+
+/* Using class selector to change the font of all heading */
+.color-title{
+    font-weight: normal;
+}
+
+/* Using element selector [img] to set dimensions */
+img{
+    height: 200px;
+    width: 200px;
+}
